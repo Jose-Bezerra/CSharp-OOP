@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Course", "Course.csproj", "{3E107D13-1134-4CEA-8E06-E494C08E4D15}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BancoByte", "BancoByte\BancoByte.csproj", "{831FFDAF-F197-45AF-A319-BAFA7B27A07C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3E107D13-1134-4CEA-8E06-E494C08E4D15}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E107D13-1134-4CEA-8E06-E494C08E4D15}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E107D13-1134-4CEA-8E06-E494C08E4D15}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E107D13-1134-4CEA-8E06-E494C08E4D15}.Release|Any CPU.Build.0 = Release|Any CPU
+		{831FFDAF-F197-45AF-A319-BAFA7B27A07C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{831FFDAF-F197-45AF-A319-BAFA7B27A07C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{831FFDAF-F197-45AF-A319-BAFA7B27A07C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{831FFDAF-F197-45AF-A319-BAFA7B27A07C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {46342CD3-8E93-4D03-AF8E-B94247ADC8D2}
+	EndGlobalSection
+EndGlobal
